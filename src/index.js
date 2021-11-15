@@ -8,7 +8,7 @@ class Square extends React.Component {
         <button className="square">
           {/* TODO */}
         </button>
-      );a
+      );
     }
   }
   
